@@ -12,9 +12,8 @@ The portfolio is hosted on AWS with the following architecture :
 
 ## 🔗 Live Demo
 
-👉 <a href="https://shar1ff.me" target="_blank" rel="noopener noreferrer">Visit Site</a>
+👉 [Visit Site](https://shar1ff.me) (Right-click and open in a new tab)
 
-👉 **[Shar1ff.me](https://shar1ff.me)**
 
 ## 📸 Architecture Diagram
 
