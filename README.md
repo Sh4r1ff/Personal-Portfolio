@@ -16,7 +16,8 @@ The portfolio is hosted on AWS with the following architecture :
 
 ## 📸 Architecture Diagram
 
-> **
+![Diagram](assets/S3 Static Website.svg)
+
 
 ## 🛠️ Tech Stack
 
